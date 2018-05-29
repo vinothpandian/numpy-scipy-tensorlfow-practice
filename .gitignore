@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+graphs/
+__pycache__/
+__pycache__
